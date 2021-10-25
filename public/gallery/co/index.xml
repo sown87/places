@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colorado on Places</title>
-    <link>https://sown87.github.io/our-journey/gallery/co/</link>
+    <link>https://sown87.github.io/places/gallery/co/</link>
     <description>Recent content in Colorado on Places</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 15:47:54 -0500</lastBuildDate><atom:link href="https://sown87.github.io/our-journey/gallery/co/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 15:47:54 -0500</lastBuildDate><atom:link href="https://sown87.github.io/places/gallery/co/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
