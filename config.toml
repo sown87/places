@@ -1,0 +1,48 @@
+baseurl                  = "https://sown87.github.io/our-journey"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Places"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = ""
+    homepage             = "home"                           # What to call the home page link
+    footerText           = "our journey - a small travel journal and photo gallery"
+
+# Metadata for Open Graph and Twitter
+    description          = "Our Journey Journal"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Places"
+    # rss                = ""
+
+#[[params.videoBackgroud.sources]]
+#    source  = "/sample_video.mp4"
+#    type    = "video/mp4"
+#    poster  = "/background.png"
+[params.videoBackgroud]
+    overlay = "rgba(0, 0, 0, 0.4)" # optional
+
+#[[params.mainMenu]]
+#    link = "usamap"
+#    text = "usa map of places visited"
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "blog"
+
+[[params.mainMenu]]
+    link = "gallery"
+    text = "photo galleries by state"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "about"
+
+[imaging]
+    quality = 75
