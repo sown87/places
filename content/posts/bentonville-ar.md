@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","arkansas"]
 ---
 
-### *For all our shared photos while in Arkansas, see our Photo Gallery at [/gallery/ar](/gallery/ar)*
+### *For all our shared photos while in Arkansas, see our Photo Gallery at [/places/gallery/ar](/places/gallery/ar)*
 
 ## Northwest Arkansas -- There's a Whole Different Thing Going On
 Whatever picture you have in your head about Arkansas-- throw it out.   Especially if your first foray into the state is anywhere along the Interstate 49 corridor that comprises Northwest Arkansas-- a.k.a. NWA for short.  
@@ -17,7 +17,7 @@ On the contrary, Bentonville-- and all of [Northwest Arkansas](https://findingnw
 
 This is the area that Shondy and I spent the first week of March 2021.  And boy, were we surprised with what we encountered--and how much of it was free.
 
-![crystalbridges](/gallery/ar/ar_19.jpg)
+![crystalbridges](/places/gallery/ar/ar_19.jpg)
 
 ## But First-- The Car Accident
 Uh, yeah-- we got in a little fender bender within 5 minutes of arriving in NWA.  
@@ -31,7 +31,7 @@ It's not just Bentonville-- but the whole NWA area.  The [Razorback Greenway](ht
 
 In sum... this place is prosperous.  Everyone here seems to be thriving.  Folks look perked up, healthy, content.  The Walton family's success has generously poured into the area, and NWA's 500,000 residents are it's beneficiaries.
 
-![walmart](/gallery/ar/ar_31.jpg)
+![walmart](/places/gallery/ar/ar_31.jpg)
 
 
 ## "You Belong Here"
@@ -41,11 +41,11 @@ We had a hard time imagining all this being free.   In California, you'd be char
 here?  No problem!  Feel free to hang out, grab a beer *(note: beer not free)*, and kick-back along one of the glass firepits adorning 
 the front of the facility.  The meander into the art exhibit area and enjoy one of several showings they rotate in regularly.
 
-There's this huge neon sign there that says **"You Belong Here"**.   That sorta sums up alot of what we encountered in Arkansas-- friendly people, and a very welcoming spirit (see my Conway blog [here](/posts/conway-ar/) ).
+There's this huge neon sign there that says **"You Belong Here"**.   That sorta sums up alot of what we encountered in Arkansas-- friendly people, and a very welcoming spirit (see my Conway blog [here](/places/posts/conway-ar/) ).
 
 I think most people would **easily** consider belonging here-- i.e., living in the area.  We sure did.
 
-![youbelonghere](/gallery/ar/ar_27.jpg)
+![youbelonghere](/places/gallery/ar/ar_27.jpg)
 
 
 ## Other Observations
@@ -57,7 +57,7 @@ We ate catfish at [Flying Fish](https://www.flyingfishinthe.net/location?l=Bento
 
 If you enjoy wine or beer like we do, one major heads up:  Arkansas has 'wet' counties and 'dry' counties-- those who do and don't sell alcohol.  And though we enjoyed some wine visiting NWA, taxes on alcohol everywhere typically exceed 10%.
 
-![favoriteville](/gallery/ar/ar_16.jpg)
+![favoriteville](/places/gallery/ar/ar_16.jpg)
 
 
 

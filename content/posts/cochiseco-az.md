@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","arizona"]
 ---
 
-### *For all our shared photos while in Arizona, see our Photo Gallery at [/gallery/az](/gallery/az)*
+### *For all our shared photos while in Arizona, see our Photo Gallery at [/places/gallery/az](/places/gallery/az)*
 
 ## Southern Arizona - Desert for Non-Desert People
 I highly recommend visiting Arizona.  It's uniquely beautiful.  You can't stand next to a Saguaro or Cholla cactus and not be impressed with how life persists in an extemely hot, dry environment.  Desert vistas with their orange, gold, and yellow hues coloring the dawn (or dusk) are brilliant.  You don't get that from other landscapes.   Honestly, if all I did in Arizona was admire the panaroma each day, it would be a worthwhile visit.
@@ -19,7 +19,7 @@ But we didn't take in the holidays in the more well known areas such as Phoenix,
 
 And it's here where you'll find a Sonoran desert experience with lower temps, four seasons, and a variety of outdoor landscapes, history and culture.  In other words-- a place where even people who don't like desert living can enjoy.
 
-![vista](/gallery/az/az_23.jpg)
+![vista](/places/gallery/az/az_23.jpg)
 
 ## Mexico Snow
 For example, it **snows during the winter here**. 
@@ -30,7 +30,7 @@ And if you don't like snow... just wait a few hours.  It rarely sticks through t
 
 We experienced several snowy days during our stay.
 
-![snow](/gallery/az/az_6.jpg)
+![snow](/places/gallery/az/az_6.jpg)
 
 ## History and Hippies
 So here's a quick hit of what we encountered in Cochise County.   Had it not been that alot of this was closed due to COVID, I'd give more detail.  But I've been to these places before, so I share thoughts based on past experience:
@@ -45,6 +45,6 @@ So what does one do when lots of stuff is shut down for COVID?  Pick nature-- yo
 ## Other Observations
 Let it be known that Chicago-style Hot Dogs can be had [right near the Mexican border](https://jimmysbisbee.com/#!/).  Jimmy's makes some tasty hot dogs.
 
-![desertmoon](/gallery/az/az_20.jpg)
+![desertmoon](/places/gallery/az/az_20.jpg)
 
 

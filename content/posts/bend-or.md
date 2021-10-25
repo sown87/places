@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","oregon"]
 ---
 
-### *For all our shared photos while in Oregon, see our Photo Gallery at [/gallery/or](/gallery/or)*
+### *For all our shared photos while in Oregon, see our Photo Gallery at [/places/gallery/or](/places/gallery/or)*
 
 ## If I had come here long before, I would have moved here...
 Our stay in Bend was brief-- less than a week.  Which is unfortunate.  I should have stayed a month.
@@ -28,13 +28,13 @@ If you swap
 
 Then Santa Cruz, California is transformed into Bend, Oregon.  I swear, my few days in Bend felt so much like home.  I think that had to do alot with my enjoyment of being outdoors-- plus the fact that the weather was perfect in Bend during our stay. 
 
-![beauty](/gallery/or/or_44.jpg) 
+![beauty](/places/gallery/or/or_44.jpg) 
 
 Since I wasn't teleworking, both Shondy and I got outside alot.  I took two day-long hikes up Mt Bachelor and along the Deschutes River Trail.  We picniced along some beautiful trails with groceries from [Market of Choice](https://www.marketofchoice.com/locations-bend/).  Though COVID was wreaking havoc at the time, we chanced outdoor dining at [Worthy Brewery](https://worthy.beer/) where I got an elk/bison burger and a fun beer sampler.   But even with the weather being beautiful, November temperatures kept it nippy during the day, so to be outside we ventured to [one of the many outdoor stores in Bend](https://www.gearfix.com/) looking for some cool-weather apparel.
 
 Bend is great for the outdoors type.  Frankly, any town that [has a FjallRaven store in it's downtown area](https://stores.fjallraven.com/or/bend/) has to be awesome.
 
-![shred](/gallery/or/or_41.jpg)
+![shred](/places/gallery/or/or_41.jpg)
 
 ## What Bend-ites really care about
 Here's something that struck my funny-bone.
@@ -47,7 +47,7 @@ To my surprise-- nay, shock-- I heard nothing about the election.   What's more,
 
 There you go, outdoor-lovers!  Bend-ites have their priorities...
 
-![shred](/gallery/or/or_42.jpg)
+![shred](/places/gallery/or/or_42.jpg)
 
 ## Final Observations.
 
@@ -61,7 +61,7 @@ As for the snow-- well, it arrived on the day we left.   A visit to the slopes w
 
 Like burgers?  This elk/bison one from Worthy Brewery was off the charts-- I didn't have to eat for 2 days.
 
-![burger](/gallery/or/or_45.jpg)
+![burger](/places/gallery/or/or_45.jpg)
 
 
 

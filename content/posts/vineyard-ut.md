@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","utah"]
 ---
 
-### *For all our shared photos while in Utah, see our Photo Gallery at [/gallery/ut](/gallery/ut)*
+### *For all our shared photos while in Utah, see our Photo Gallery at [/places/gallery/ut](/places/gallery/ut)*
 
 ## The Newly Minted City
 We arrived in [Vineyard, Utah](https://vineyardutah.org/) at the start of December 2020.  We came here to visit family living in the Salt Lake City area.  Too, a few friends we know spoke highly of SLC, and how it's becoming a popular destination for people looking for tech jobs.  So we figured a two-week stay outta cover our family visit-- and our curiosity to see why it's so attractive.
@@ -22,13 +22,13 @@ The immediate thing that stood out to me-- actually, to anyone-- in the SLT metr
 
 That alone-- the easy, direct access to hiking, skiing and outdoors-- explains the SLT area popularity, IMHO.  I get it.  Sure, you gotta have jobs, and housing, and entertainment-- but many places have those.   SLT has that-- but it's also got this towering, dominating, authoritative, natural rock wonder of God sitting in your urban backyard everyday that other places can only envy.   From our apartment in Vineyard, I loved looking out toward the range, taking in the morning sun as it cast it's yellow-orange light over mountain peaks...
 
-![sunpeek](/gallery/ut/ut_3.jpg)
+![sunpeek](/places/gallery/ut/ut_3.jpg)
 
 ...that is, when it wasn't overcast and snowing.
 
 Um, it snowed a fair bit.  And ice formed everywhere. Now, I love the snow, but our two weeks in an apartment-- mind you, one that was on the third floor, with no elevator and an outside stairwell that was iced-over-- took effort to navigate each day.  I slipped more than once.   And we experienced the joy of scraping our windshield and warming up our car for 15minutes whenever going out.  And since we didn't have an AWD or 4WD vehicle, a couple times the roads were too icy for our California-bred driving habits to overcome.  But Shondy and I laughed about it-- just part of the experience!! 
 
-![snowparking](/gallery/ut/ut_4.jpg)
+![snowparking](/places/gallery/ut/ut_4.jpg)
 
 ## Slip-Sliding with the BYU kids
 I love hiking.  One Sunday we caught a break in the weather, and I convinced Shondy we should stretch our legs a bit.  Heck with the snow... let's try to find a popular trail that wouldn't be too slippery.   So we set out for the [Rock Canyon Trail](https://www.provo.org/Home/Components/FacilityDirectory/FacilityDirectory/52/200) that runs east out of Provo, UT.  
@@ -51,4 +51,4 @@ It was December, and fresh fruit wasn't easy to come by.  But Shondy found [this
 
 One day we took a walk along Utah Lake, near our Vineyard apartment, when the sun came out.  Captured a great pic of what looks like two guys standing out on the lake.  And indeed they were-- the lakeside was frozen. 
 
-![twoguys](/gallery/ut/ut_2.jpg)
+![twoguys](/places/gallery/ut/ut_2.jpg)

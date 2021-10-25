@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","idaho"]
 ---
 
-### *For all our shared photos while in Idaho, see our Photo Gallery at [/gallery/id](/gallery/id)*
+### *For all our shared photos while in Idaho, see our Photo Gallery at [/places/gallery/id](/places/gallery/id)*
 
 ## Wait.. this is Idaho?!?
 Until we crossed the Snake River driving from Oregon along Interstate 84, I had never been to Idaho.  It was the second week of November, 2020, and the weather was borderline snow with ice laden clouds overhead, ready to burst.  
@@ -27,7 +27,7 @@ But in hindsite, it was a blessing.  Because it kept us warm-- which turned out 
 ## Baby, It's Cold Outside!
 The snow came shortly after our arrival, the next morning.  And yeah-- it was cold.  Idaho is known for getting cold, and though this was only the 20 degF range-- certainly not extreme cold by Idaho standards-- my Californian-bred internal core-temp wasn't having any of it.  Too cold for my routine of walking outside 1 hour each morning.  To be honest, though, this was due to something both my wife and had to admit-- we didn't have any **real** cold-weather apparel.
 
-![housesnow](/gallery/id/id_01.jpg)
+![housesnow](/places/gallery/id/id_01.jpg)
 
 First line of business- get warm clothes.  Fortunately, the [online outdoor retailer I've loved and shopped at for years](https://www.sierra.com/) has a physical store in Meridian, 2 miles from our AirBnB.  Even better:  it's right next to a [Winco](https://www.wincofoods.com/).  So donned our masks, and headed out to the malls.  We got our 0deg jackets and grocery shopping done in one fell swoop.
 
@@ -44,7 +44,7 @@ Cool!! Gluten-free pastries, and now wine!  What a stroke of blessing!  Of cours
 
 Well, 7 miles and 45min later, through totally barren hills and another county, going like 15mph or slower, we arrived at [3 Horse Ranch](https://www.3horseranchvineyards.com/).  Seriously, this place is really the proverbial *"middle of nowhere"*.  But they were open for tasting, with outdoor seating too.  So we settled in *(chilly Idaho fashion, 4 layers + our winter coats)"* at a table on the lawn, and enjoyed some high-altitude Idaho Malbec wine with Idaho gouda cheese and Elk salami.  I ended up chatting with the proprietor and wine-maker, who was from Napa, and talked about growing grapes in high, cold climates.  It was alot of unexpected fun!
 
-![winery](/gallery/id/id_04.jpg)
+![winery](/places/gallery/id/id_04.jpg)
 
 
 ## Other Observations.
@@ -57,4 +57,4 @@ Yes, we ventured into the city of Boise a handful of times, and I managed a coup
 
 The whole Treasure Valley area was decked out for Christmas.  With the chilly, snowy weather, it actually *felt* like a White Christmas, something I really had no frame-of-reference for after living in Santa Cruz, California most of my life.  So I loved that.  Shondy and I took one evening and walked around the Christmas Light display at the [Idaho Botantical Garden](https://idahobotanicalgarden.org/).  To make it through that without frostbitten fingers, we each had our own pack of handwarmer's purchased earlier in the month from Sierra.  Those came in hand-y. ;-)
 
-![winery](/gallery/id/id_25.jpg)
+![winery](/places/gallery/id/id_25.jpg)

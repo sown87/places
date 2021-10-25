@@ -6,23 +6,23 @@ draft: false
 tags: ["blog","colorado"]
 ---
 
-### *For all our shared photos while in Colorado, see our Photo Gallery at [/gallery/co](/gallery/co)*
+### *For all our shared photos while in Colorado, see our Photo Gallery at [/places/gallery/co](/places/gallery/co)*
 
 ## "Oh Lord, When will Winter be Over?"
-We arrived in Arvada, Colorado, a suburb of Denver, the second week of March 2021 for a month-long stay.  I was excited.  We were visiting family in the area, and I was told the weather was looking nice.   Spring was coming.  Hooray!  Since November, we'd been bearing through cold and snow and ice traveling in Oregon, Idaho, Utah, Arizona (yes, Arizona had snow, see my blog post [here](/posts/cochiseco-az/) ), Texas, and Arkansas.  Great times, but I was ready for a little warmth and sun.
+We arrived in Arvada, Colorado, a suburb of Denver, the second week of March 2021 for a month-long stay.  I was excited.  We were visiting family in the area, and I was told the weather was looking nice.   Spring was coming.  Hooray!  Since November, we'd been bearing through cold and snow and ice traveling in Oregon, Idaho, Utah, Arizona (yes, Arizona had snow, see my blog post [here](/places/posts/cochiseco-az/) ), Texas, and Arkansas.  Great times, but I was ready for a little warmth and sun.
 
-![snowshoes](/gallery/co/co_50.jpg)
+![snowshoes](/places/gallery/co/co_50.jpg)
 
 Nope.
 
-As with our snow-filled stay in Conway, Arkansas (see blog post [here](/posts/conway-ar/), the Denver area got hit with a [once-every-twenty-year blizzard](https://www.weather5280.com/2021/03/15/blizzard-of-march-2021-will-stand-as-4th-biggest-snowfall-on-record-for-denver-final-update-and-snowfall-totals) shortly 
+As with our snow-filled stay in Conway, Arkansas (see blog post [here](/places/posts/conway-ar/), the Denver area got hit with a [once-every-twenty-year blizzard](https://www.weather5280.com/2021/03/15/blizzard-of-march-2021-will-stand-as-4th-biggest-snowfall-on-record-for-denver-final-update-and-snowfall-totals) shortly 
 after we arrived.  Aaarrgh!  I got good at shoveling snow-- something I did several times during our stay.  I remember being outside with 
 the storm in full-swing, chillin' *(literally)* with the other guys in the neighbor of our AirBnB house, all of us shoveling snow off the 
 sidewalks and driveways.  I heard one neighbor say *"I haven't seen a snowstorm like this since that bad one back in 2003..."*.
 
 Yikes.  More winter weather. Here we go again.
 
-![bigsnow](/gallery/co/co_2.jpg)
+![bigsnow](/places/gallery/co/co_2.jpg)
 
 
 ## Zoom Fatigue and COVID
@@ -59,16 +59,16 @@ I MUST do this again!  I MUST own snowshoes!
 
 BTW, we used [Crescent Moon Snowshoes](https://crescentmoonsnowshoes.com/) -- a Colorado manufacturer-- rented from this [outdoor gear shop](https://www.mountainsidegearrental.com/).  I highly recommend both.
 
-![snowshoes](/gallery/co/co_40.jpg)
+![snowshoes](/places/gallery/co/co_40.jpg)
 
 ## Final Observations
-We needed body work done on our car while in Arvada, after the accident we had in Fayetteville, Arkansas (see blog post [here](/posts/bentonville-ar/)).  We had to sort out with the insurance company the awkward details of being insured in California, rear-ended in Arkansas, but asking for repairs in Colorado.   But they were very friendly and cooperative, and I would be very happy using [this insurance company](https://www.shelterinsurance.com/) again in the future.
+We needed body work done on our car while in Arvada, after the accident we had in Fayetteville, Arkansas (see blog post [here](/places/posts/bentonville-ar/)).  We had to sort out with the insurance company the awkward details of being insured in California, rear-ended in Arkansas, but asking for repairs in Colorado.   But they were very friendly and cooperative, and I would be very happy using [this insurance company](https://www.shelterinsurance.com/) again in the future.
 
 Shondy and I had one evening where we bundled up, and walked a couple miles over to [Silver Vines Wine Tasting Room](http://www.silvervineswinery.com/) in downtown Arvada.  It wasn't too cold-- even seemed a bit warm.  Great!  This looked like a good evening for a date.  And it was.   We enjoyed the outside sidewalk seating area with other guests. The wine sampler and charcuterie board we ordered were great.  The wind was blowing east-erly and seemed pleaseant given the cold weather we'd had to that point.  Then it happened -- in a mere moment, the wind shifted west-erly, and the temps dropped like 15degF.  In like a minute.  I'm not kidding.  That's Colorado for you.  Our 2mile walk back to the AirBnB was downright frigid.  And the next morning-- 5 inches of snow on the ground.
 
 This Argentin-ian [tapas place](https://quieroarepas.com/) has some really tasty food.
 
-![tapas](/gallery/co/co_41.jpg)
+![tapas](/places/gallery/co/co_41.jpg)
 
 [Washington Park](https://www.denver.org/about-denver/neighborhood-guides/washington-park/) *(or 'Wash' Park, as the locals call it)* is a fabulous place to walk, bike, fish, play volleyball, or people watch.  We were there a couple times on the occasional sunny days we got.   Seemed like a place for young people to hang out and flirt ;-)
 

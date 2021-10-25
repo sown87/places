@@ -6,7 +6,7 @@ draft: false
 tags: ["blog","utah","hike"]
 ---
 
-### *For all our shared photos while in Utah, see our Photo Gallery at [/gallery/ut](/gallery/ut)*
+### *For all our shared photos while in Utah, see our Photo Gallery at [/places/gallery/ut](/places/gallery/ut)*
 
 ## Only One Thing to Say:  GO!
 I could use all sorts of superlatives, and heap all sorts of praise, on how great Zion National Park is.  And it would all be true.
@@ -22,4 +22,4 @@ I *tried* to make it all the way to Angel's Landing, but took a pass on that *ho
 
 But I had all day, so I added the Emerald Pools trails to my adventure afterwards.   Fabulous time!
 
-![zion](/gallery/ut/ut_12.jpg)
+![zion](/places/gallery/ut/ut_12.jpg)

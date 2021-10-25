@@ -6,6 +6,6 @@ draft: false
 tags: ["blog","oregon"]
 ---
 
-### *For all our shared photos while in Oregon, see our Photo Gallery at [/gallery/or](/gallery/or)*
+### *For all our shared photos while in Oregon, see our Photo Gallery at [/places/gallery/or](/places/gallery/or)*
 
 Placeholder for Eugene, Oregon
