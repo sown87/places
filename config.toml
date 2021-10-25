@@ -1,4 +1,4 @@
-baseurl                  = "https://sown87.github.io/our-journey"           # Your domain name
+baseurl                  = "https://sown87.github.io/places"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -13,10 +13,10 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = ""
     homepage             = "home"                           # What to call the home page link
-    footerText           = "our journey - a small travel journal and photo gallery"
+    footerText           = "Places - a small travel journal and photo gallery"
 
 # Metadata for Open Graph and Twitter
-    description          = "Our Journey Journal"               # Max 160 characters show in search results
+    description          = "Places Visited Journal"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Places"
     # rss                = ""
